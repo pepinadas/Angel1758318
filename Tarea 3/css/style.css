@@ -1,0 +1,17 @@
+p {
+    color: rgb(77, 36, 36);
+}
+h1 {
+    font-size: 3em;
+}
+
+.reto p:nth-child(1) {
+    background-color: aqua;
+    color: slateblue;
+}
+.reto p:nth-child(2) {
+    color: seagreen;
+}
+.reto p:nth-child(3) {
+    background-color: yellow;
+}
