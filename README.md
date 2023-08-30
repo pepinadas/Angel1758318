@@ -4,8 +4,10 @@ Aquí agregare todas las paginas que realizare en la materia de Programación we
 Primera Tarea:
 "Primera pagina"
 
+
 Segunda Tarea:
 "Tarea 3"
-Tercera Tarea: 
 
+
+Tercera Tarea: 
 "Mi repaso"
